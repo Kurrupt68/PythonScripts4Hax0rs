@@ -1,2 +1,2 @@
 # PythonScripts4Hax0rs
-This Repository Contains Python3 scripts that could be useful for red team operations
+This repository contains Python3 scripts that could be useful for red team operations
